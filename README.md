@@ -45,7 +45,7 @@ Profissional de **Segurança Ofensiva** com prática técnica intensa e comprov�
 
 ### Certificações
 
-- **CRTO** · ZeroPoint Security
+- **CRTO** (Certified Red Team Operator)· ZeroPoint Security
 - **CRTA** (Certified Red Team Analyst) · CyberwarFare Labs
 - **K8S-RTA** (Kubernetes Red Team Analyst) · CyberwarFare Labs
 - **EHE** (Ethical Hacking Essentials) · EC-Council
@@ -62,9 +62,3 @@ Profissional de **Segurança Ofensiva** com prática técnica intensa e comprov�
 - **[recon-pipeline](https://github.com/leeo70/recon-pipeline)**: pipeline de recon contínuo (Python) com motor em Rust para scan de segredos em JS (RegexSet + rayon), persistência em SQLite e notificação só do delta
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeo70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeo70&layout=compact&theme=tokyonight&hide_border=true">
-</p>

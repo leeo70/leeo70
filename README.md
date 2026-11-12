@@ -15,7 +15,7 @@
 Profissional de **Segurança Ofensiva** com prática técnica intensa e comprovável em **pentest de aplicações, redes e infraestrutura**. Atuação constante em ambientes corporativos simulados (CTFs e laboratórios) e programas de **bug bounty**, desenvolvendo cadeias de exploração multi-etapa, PoCs, ferramentas próprias e relatórios técnicos com evidências e recomendações acionáveis.
 
 - Plataforma HackingClub (~137k XP, 249 máquinas resolvidas, 100 desafios)
-- Trilha **Red Team / AppSec**: CRTA e K8S-RTA (CyberwarFare Labs), em andamento **CRTO** (ZeroPoint Security)
+- Trilha **Red Team / AppSec**: CRTA e K8S-RTA (CyberwarFare Labs), **CRTO** (ZeroPoint Security), em andamento **CRTL** (ZeroPoint Security)
 - Ferramenta para uso próprio de recon e automação em **Python** e **Rust**
 - Guarujá/SP.
 
@@ -45,18 +45,18 @@ Profissional de **Segurança Ofensiva** com prática técnica intensa e comprov�
 
 ### Certificações
 
+- **CRTO** · ZeroPoint Security
 - **CRTA** (Certified Red Team Analyst) · CyberwarFare Labs
 - **K8S-RTA** (Kubernetes Red Team Analyst) · CyberwarFare Labs
 - **EHE** (Ethical Hacking Essentials) · EC-Council
 - **CWHI** + **DevSecOps** · CrowSec EdTech
 - **Introduction to Cybersecurity** · Cisco Networking Academy
-- *Em andamento:* **CRTO** · ZeroPoint Security
 
 ---
 
 ### Projetos em destaque
 
-- **[writeups CTFs](https://github.com/leeo70/writeups)**: fragment, journal, tridente (HackingClub)
+- **[writeups CTFs](https://github.com/leeo70/writeups)**: anomaly, discovery, journal (HackingClub)
 - **[nx2json](https://github.com/leeo70/nx2json)**: converter .NX para JSON/SQLite
 - **[krb-dump-viewer](https://github.com/leeo70/krb-dump-viewer)**: ui para visualização de dumps de Kerbeus-BOF
 - **[recon-pipeline](https://github.com/leeo70/recon-pipeline)**: pipeline de recon contínuo (Python) com motor em Rust para scan de segredos em JS (RegexSet + rayon), persistência em SQLite e notificação só do delta
